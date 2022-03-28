@@ -23,12 +23,3 @@ oob = ob?.name;
 console.log(aob); // 0
 console.log(oob); // undefined
 
-ob={name:123};
-
-aob = ob && ob.name;
-oob = ob?.name;
-
-console.log(aob); // 0
-console.log(oob); // undefined
-
-
