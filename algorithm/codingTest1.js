@@ -60,7 +60,7 @@ function solution(numbers, hand) {
 
 
 /*
-진짜 어거지로 푼거 같음 다른 사람 풀이 보고 다른 풀이 방법 생각해볼 수 있도록 공부해야겠음
+진짜 어거지로 푼거 같음 다른 사람 풀이 보고 다른 풀이 방법 생각해볼 수 있도록 공부해야겠음 중복되는 코드가 많음
 function solution(numbers, hand) {
     var answer = '';
     const phoneNumbers =[
